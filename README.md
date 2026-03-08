@@ -57,4 +57,6 @@ This project focuses on building a clean user interface using <strong>HTML5</str
 </ul>
 
 <h2>🚀 Live Demo</h2>
+
 ![Guitar Shop Screenshot](guitar.gif)
+
